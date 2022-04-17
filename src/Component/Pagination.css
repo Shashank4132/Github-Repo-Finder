@@ -1,0 +1,18 @@
+.pagination{
+    display: flex;
+    justify-content: center;
+    background-color: #2C394B;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.pagination h2{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px; 
+    border-color: #FF4C29;
+    color: white;
+}
